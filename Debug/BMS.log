@@ -1,0 +1,8 @@
+﻿  BMS.cpp
+  customer.cpp
+C:\Users\kbinw\source\repos\BMS\BMS\customer.cpp(34,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  db.cpp
+  employee.cpp
+  Generating Code...
+  LINK : C:\Users\kbinw\source\repos\BMS\Debug\BMS.exe not found or not built by the last incremental link; performing full link
+  BMS.vcxproj -> C:\Users\kbinw\source\repos\BMS\Debug\BMS.exe
